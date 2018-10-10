@@ -8,7 +8,7 @@ to switch between Kubernetes namespaces blazing fast. :fire:
 ## Installation
 To install **kns** you can just run this command:
 ```bash
-curl https://raw.githubusercontent.com/blendle/kns/master/bin/kns -o /usr/local/bin/kns && chmod +x $_
+curl https://raw.githubusercontent.com/MHeimbuc/kns/master/bin/kns -o /usr/local/bin/kns && chmod +x $_
 ```
 Or use our homebrew tap:
 ```bash
